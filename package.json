@@ -1,0 +1,15 @@
+{
+  "name": "multi-player-pong",
+  "version": "1.0.0",
+  "description": "Multi player pong game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
